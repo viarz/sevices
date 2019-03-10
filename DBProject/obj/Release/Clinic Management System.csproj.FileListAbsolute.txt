@@ -1,0 +1,35 @@
+C:\Users\Viktors\Desktop\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\ApplicationInsights.config
+C:\Users\Viktors\Desktop\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\roslyn\csc.exe
+C:\Users\Viktors\Desktop\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Viktors\Desktop\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Viktors\Desktop\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Viktors\Desktop\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Viktors\Desktop\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Viktors\Desktop\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Viktors\Desktop\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Viktors\Desktop\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Viktors\Desktop\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\roslyn\vbc.exe
+C:\Users\Viktors\Desktop\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Viktors\Desktop\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Viktors\Desktop\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\DBProject.dll.config
+C:\Users\Viktors\Desktop\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\DBProject.dll
+C:\Users\Viktors\Desktop\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\DBProject.pdb
+C:\Users\Viktors\Desktop\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Viktors\Desktop\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Viktors\Desktop\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Viktors\Desktop\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Viktors\Desktop\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\Microsoft.AI.Web.dll
+C:\Users\Viktors\Desktop\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Viktors\Desktop\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Viktors\Desktop\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Viktors\Desktop\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Viktors\Desktop\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Viktors\Desktop\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\Microsoft.AI.Web.xml
+C:\Users\Viktors\Desktop\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Viktors\Desktop\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Viktors\Desktop\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Viktors\Desktop\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\obj\Release\Clinic Management System.csprojAssemblyReference.cache
+C:\Users\Viktors\Desktop\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\obj\Release\Clinic Management System.csproj.CoreCompileInputs.cache
+C:\Users\Viktors\Desktop\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\obj\Release\Clinic Management System.csproj.CopyComplete
+C:\Users\Viktors\Desktop\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\obj\Release\DBProject.dll
+C:\Users\Viktors\Desktop\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\obj\Release\DBProject.pdb
